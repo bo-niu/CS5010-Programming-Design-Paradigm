@@ -1,0 +1,330 @@
+/**
+* my template is simply add name, company name, mailing address, phone number or email address and zip code to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: jbutt@gmail.com
+Subject: Insurance company – information about recent data breach
+Dear James Butt,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address, phone number or email address and zip code.
+ 
+I am writing to make you aware that your name, company name, mailing address, phone number or email address and zip code may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: josephine_darakjy@darakjy.org
+Subject: Insurance company – information about recent data breach
+Dear Josephine Darakjy,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address.
+ 
+I am writing to make you aware that your name, company name, mailing address may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address, phone number or email address and zip code to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: art@venere.org
+Subject: Insurance company – information about recent data breach
+Dear Art Venere,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address, phone number or email address and zip code.
+ 
+I am writing to make you aware that your name, company name, mailing address, phone number or email address and zip code may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: lpaprocki@hotmail.com
+Subject: Insurance company – information about recent data breach
+Dear Lenna Paprocki,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address.
+ 
+I am writing to make you aware that your name, company name, mailing address may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address, phone number or email address and zip code to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: donette.foller@cox.net
+Subject: Insurance company – information about recent data breach
+Dear Donette Foller,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address, phone number or email address and zip code.
+ 
+I am writing to make you aware that your name, company name, mailing address, phone number or email address and zip code may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: simona@morasca.com
+Subject: Insurance company – information about recent data breach
+Dear Simona Morasca,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address.
+ 
+I am writing to make you aware that your name, company name, mailing address may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address, phone number or email address and zip code to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: mitsue_tollner@yahoo.com
+Subject: Insurance company – information about recent data breach
+Dear Mitsue Tollner,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address, phone number or email address and zip code.
+ 
+I am writing to make you aware that your name, company name, mailing address, phone number or email address and zip code may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: leota@hotmail.com
+Subject: Insurance company – information about recent data breach
+Dear Leota Dilliard,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address.
+ 
+I am writing to make you aware that your name, company name, mailing address may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address, phone number or email address and zip code to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: sage_wieser@cox.net
+Subject: Insurance company – information about recent data breach
+Dear Sage Wieser,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address, phone number or email address and zip code.
+ 
+I am writing to make you aware that your name, company name, mailing address, phone number or email address and zip code may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: kris@gmail.com
+Subject: Insurance company – information about recent data breach
+Dear Kris Marrier,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address.
+ 
+I am writing to make you aware that your name, company name, mailing address may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+
+/**
+* my template is simply add name, company name, mailing address, phone number or email address and zip code to the provided template since the stolen information of different 
+* company might also be different.
+*/
+
+From: insuranceCompany@ic.com
+To: minna_amigon@yahoo.com
+Subject: Insurance company – information about recent data breach
+Dear Minna Amigon,
+As you may have heard or read, last month we learned that criminals forced their way into our systems, 
+and stole information about our customers. Late last week, as part of our ongoing investigation, 
+we learned that the taken information includes name, company name, mailing address, phone number or email address and zip code.
+ 
+I am writing to make you aware that your name, company name, mailing address, phone number or email address and zip code may have been 
+taken during the intrusion. 
+
+I am truly sorry this incident occurred, and I sincerely regret any inconvenience it may cause you. 
+
+Because we value you as a customer, and because your trust is important to us, our company is offering you one 
+year of free credit monitoring through Experian’s ProtectMyID product, which includes identity theft insurance 
+where available. You will receive more information about this offer via regular mail.
+
+You can find additional information and FAQs about this incident at our website. If you have further questions, 
+you may call us at 866-852-8680. 
+
+Thank you for your patience and your loyalty. 
+Sincerely,
+Insurance Company CEO
+
+

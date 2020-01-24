@@ -1,0 +1,37 @@
+{
+  "grammarTitle": " Generator",
+  "grammarDesc": "A grammar that generates trumpese.",
+  "start": [
+    "Something very very very <superlative> just happened!",
+    "<intro>, You're <unpleasant>. <end>."
+  ],
+  "intro": [
+    "You sir",
+    "Believe me"
+  ],
+  "topic": [
+    ""
+  ],
+  "end": [
+    "Thank you",
+    "You are fired"
+  ],
+  "superlative": [
+    "bigly",
+    "huge",
+    "amazing",
+    "tremendous",
+    "beautiful"
+  ],
+  "unpleasant": [
+    "poor",
+    "weak",
+    "bad",
+    "a <noun>"
+  ],
+  "noun": [
+    "bad guy",
+    "loser",
+    "fake news"
+  ]
+}
